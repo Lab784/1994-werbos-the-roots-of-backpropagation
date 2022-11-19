@@ -1,7 +1,7 @@
 # The Roots of Backpropagation: From Ordered Derivatives to Neural Networks and Political Forecasting
 ## Paul John Werbos, 1994
 
-![cover](./cover.jpeg)
+![cover](cover.jpg)
 
 ```
 @book{werbos1994roots,
